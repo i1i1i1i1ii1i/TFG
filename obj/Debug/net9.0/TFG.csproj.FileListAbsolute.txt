@@ -1,0 +1,15 @@
+D:\TFG\bin\Debug\net9.0\TFG.exe
+D:\TFG\bin\Debug\net9.0\TFG.deps.json
+D:\TFG\bin\Debug\net9.0\TFG.runtimeconfig.json
+D:\TFG\bin\Debug\net9.0\TFG.dll
+D:\TFG\bin\Debug\net9.0\TFG.pdb
+D:\TFG\obj\Debug\net9.0\TFG.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFG\obj\Debug\net9.0\TFG.AssemblyInfoInputs.cache
+D:\TFG\obj\Debug\net9.0\TFG.AssemblyInfo.cs
+D:\TFG\obj\Debug\net9.0\TFG.csproj.CoreCompileInputs.cache
+D:\TFG\obj\Debug\net9.0\TFG.sourcelink.json
+D:\TFG\obj\Debug\net9.0\TFG.dll
+D:\TFG\obj\Debug\net9.0\refint\TFG.dll
+D:\TFG\obj\Debug\net9.0\TFG.pdb
+D:\TFG\obj\Debug\net9.0\TFG.genruntimeconfig.cache
+D:\TFG\obj\Debug\net9.0\ref\TFG.dll
